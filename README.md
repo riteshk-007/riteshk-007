@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritesh</h1>
 
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in creating innovative and efficient solutions. Here you'll find a variety of projects showcasing my skills in full-stack development, web applications, and more.
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/riteshk_007/?igshid=MzNlNGNkZWQ4Mg%3D%3D) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh-kumar-8064b626b/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Riteshk_007) 
 
